@@ -3,9 +3,13 @@
 Instalitation :
 
 npm install
+
 npm init
+
 npm install cypress
+
 npm install mocha
+
 npm install chai
 
 How to run : 
